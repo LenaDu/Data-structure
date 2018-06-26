@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 class S_node
 {
 public:
